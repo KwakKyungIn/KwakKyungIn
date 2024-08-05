@@ -16,13 +16,8 @@
 </p>
 
 
-<hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
+
 
 <hr>
 
@@ -33,6 +28,13 @@
   <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr>
+<p align="center" align='right'>
+  <img height ="180" src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000">
+ <img height ="180" src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=b_mule)](https://solved.ac/유저네임">
+
+  
+</p>
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
