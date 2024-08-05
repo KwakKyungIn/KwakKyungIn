@@ -1,5 +1,5 @@
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
@@ -8,15 +8,14 @@
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Stacks</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Clang-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;&nbsp;
+
 </p>
-
-
-
 
 
 <hr>
@@ -25,13 +24,13 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rhkrruddls19999@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 <p align="center" align='right'>
   <img height ="180" src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000">
- <img height ="180" src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=b_mule)](https://solved.ac/유저네임">
+ <img height ="180" src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=b_mule">
 
   
 </p>
