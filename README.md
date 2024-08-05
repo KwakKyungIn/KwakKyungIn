@@ -1,7 +1,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>As I dream of becoming a game server developer, I plan to record every path I pass. This github is one of those records. Check out other records through ‘Reach me on’. We will show you how a developer is gradually growing.
   </samp>
   <br> <br>
 </p>
