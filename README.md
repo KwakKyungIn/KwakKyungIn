@@ -27,13 +27,5 @@
   <a href="mailto:rhkrruddls19999@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-<p align="center" align='right'>
-  <img height ="180" src ="https://github-readme-stats.vercel.app/api?username=KwakKyungIn&show_icons=true&bg_color=00000000">
- <img height ="180" src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=b_mule">
-
-  
-</p>
-<hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
