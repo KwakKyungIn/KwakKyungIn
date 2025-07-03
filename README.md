@@ -46,6 +46,13 @@ Studying system-level programming from the ground up — one thread, one packet,
 
 ---
 
+## 📈 GitHub Stats
+
+![KwakKyungIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwakKyungIn&show_icons=true&theme=default&hide_title=false&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakKyungIn&layout=compact&theme=default)
+
+
 ## 🧭 Developer's Compass
 
 > Real-time, high-stress, multi-threaded —  
