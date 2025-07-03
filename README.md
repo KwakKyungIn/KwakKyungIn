@@ -1,51 +1,58 @@
-<h1 align="center">🎮 곽삣삐, 게임 서버 프로그래머를 향한 여정 🚀</h1>
+<h1 align="center">🧠 C++ Game Server Developer in Progress</h1>
 <p align="center">
   <samp>
-    매일 한 걸음씩, 진짜 개발자가 되어가는 중입니다.<br>
-    <strong>MMORPG 서버</strong>를 구현하고 싶은 꿈을 품고<br>
-    C++, Unreal, IOCP를 공부하며 기록을 남깁니다.
+    Building scalable backends for MMORPGs with C++, networking, and operating systems.<br>
+    Aiming to master system-level programming, one protocol at a time.
   </samp>
 </p>
 
----
+<br>
 
-<h2 align="center">👨‍💻 Who am I</h2>
 <p align="center">
-  <samp>
-    저는 <strong>게임 서버 프로그래머</strong>가 되기 위해<br>
-    운영체제, 네트워크, C++ 등 컴퓨터공학 전반을 학습 중입니다.<br>
-    이 GitHub는 그 여정을 담은 <em>기록 저장소</em>입니다.<br>
-    아래 링크에서 더 많은 기록을 확인해보세요.
-  </samp>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-286DC0.svg?&style=flat&logo=verizon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating System-7B68EE.svg?&style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IOCP-333333.svg?&style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MMORPG Server Logic-FF8C00.svg?&style=flat"/>
 </p>
 
 ---
 
-<h2 align="center">⚒️ Tech Stacks</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clang-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+## 👨‍💻 About Me
+
+- 🎮 Passionate about building reliable, high-performance game servers.
+- 💻 Currently focused on mastering:
+  - **Modern C++ (C++17/20)**
+  - **Socket programming & IOCP**
+  - **OSTEP (Operating System: Three Easy Pieces)**
+  - **Computer Networking (Top-Down Approach)**
+- 🧠 Strong interest in distributed systems and scalable architectures.
 
 ---
 
-<h2 align="center">📚 I'm Studying</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/OSTEP-007396.svg?&style=flat-square&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer Networking-A9CCE3.svg?&style=flat-square&logo=bookstack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Modern C++-f5f5f5.svg?&style=flat-square&logo=cplusplus&logoColor=blue" />
-</p>
+## 📚 I'm Studying With
+
+| Subject | Resource |
+|--------|----------|
+| Operating System | OSTEP (한국어 번역본) |
+| Networking | Computer Networking: A Top-Down Approach |
+| C++ | Effective Modern C++, CPPReference |
+| Interview Prep | Real-world system design and CS review |
 
 ---
 
-<h2 align="center">📫 Reach Me</h2>
+## 📂 Main Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [`Server-Job-Prep`](https://github.com/yourname/Server-Job-Prep) | OS & Networking markdown notes, C++ interview prep |
+| [`IOCP-GameServer`](https://github.com/yourname/IOCP-GameServer) | Lightweight MMO-style server prototype with IOCP |
+| [`CS-Notes`](https://github.com/yourname/CS-Notes) | C++ + OS + Network in one place |
+
+---
+
+## 📫 Reach Me
+
 <p align="center">
   <a href="mailto:rhkrruddls19999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://velog.io/@b_mule/posts"><img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white" /></a>
@@ -54,8 +61,4 @@
 
 ---
 
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
-<p align="center">
-  <samp>📦 아래 저장소들은 제가 직접 공부하며 만든 흔적들입니다.<br>
-  특히 운영체제, 네트워크, 서버 프로젝트 정리는 꼭 확인해주세요!</samp>
-</p>
+<h3 align="center">📈 Keep an eye on how I grow ⬇️</h3>
