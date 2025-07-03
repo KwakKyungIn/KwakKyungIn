@@ -1,72 +1,79 @@
-# 🧠 C++ Game Server Developer in Progress
+# 🧠 C++ 기반 게임 서버 개발자를 향해
 
-Building scalable and performant backends for MMORPGs using C++, networking, and operating systems.  
-Studying system-level programming from the ground up — one thread, one packet, one bug at a time.
+MMORPG와 같은 대규모 온라인 게임의 백엔드를 직접 구현하고자,  
+운영체제, 네트워크, 시스템 프로그래밍을 바닥부터 다시 배우고 있습니다.  
+**C++**, **IOCP**, **멀티스레드**, **TCP/IP** 같은 핵심 기술을 실전 위주로 정리하며 성장 중입니다.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Information & Communication Engineering** at **Myongji University**
-- 🎮 Aspiring **game server engineer** focused on:
-  - Low-level systems (OS, memory, threads)
-  - Network programming and socket architecture
-  - Server scalability and fault tolerance
-- 📚 Believer in fundamentals: **"Master the core, and complexity will follow."**
+- 🎓 명지대학교 **정보통신공학과** 재학 중  
+- 🎮 목표: **MMORPG 게임 서버 프로그래머**
+- ⚙️ 현재 집중 중인 분야:
+  - 운영체제, 메모리, 스레드 등 시스템 내부 동작 이해
+  - 소켓 프로그래밍, 비동기 IO, IOCP 등 네트워크 처리 방식
+  - 서버 확장성 설계, 장애 복원력 확보, 병렬 처리 구조
+
+- 📚 철학:  
+  **“핵심을 제대로 익히면 복잡한 건 따라온다.”**  
+  기초를 탄탄히 다져서 진짜 동작하는 시스템을 만드는 것이 목표입니다.
 
 ---
 
-## ⚒️ Tech Stack
+## ⚒️ 기술 스택
 
-- **Languages:** C++, C, Python
-- **Tools:** Visual Studio, VSCode, Git, GitHub
-- **Engines:** Unreal Engine, Unity
-- **Protocols:** TCP/IP, IOCP, WebSocket
-
----
-
-## 📚 What I'm Studying
-
-| Topic | Reference |
-|-------|-----------|
-| Operating Systems | OSTEP (Operating Systems: Three Easy Pieces) |
-| Networking | Computer Networking: A Top-Down Approach |
-| Modern C++ | Effective Modern C++, cppreference |
-| Interview Prep | System design, data structures, real-world debugging |
+- **사용 언어**: C++, C, Python  
+- **개발 도구**: Visual Studio, VSCode, Git, GitHub  
+- **게임 엔진**: Unreal Engine, Unity  
+- **주요 기술**: TCP/IP, IOCP, MultiThreading, WebSocket
 
 ---
 
-## 📦 Featured Repositories
+## 📚 학습 중인 내용
 
-| Repo | Purpose |
-|------|---------|
-| [`Server-Job-Prep`](https://github.com/KwakKyungIn/Server-Job-Prep) | Markdown notes on OS, networking, C++, and interview prep |
-| [`IOCP-GameServer`](https://github.com/KwakKyungIn/IOCP-GameServer) | A scalable mini MMO server prototype using IOCP and C++ |
-| [`CS-Notes`](https://github.com/KwakKyungIn/CS-Notes) | In-depth notes on systems programming and server logic |
+| 분야 | 참고 자료 |
+|------|------------|
+| 운영체제 | OSTEP (Operating Systems: Three Easy Pieces) |
+| 네트워크 | 컴퓨터 네트워킹: 하향식 접근 |
+| C++ 심화 | Effective Modern C++, cppreference |
+| 면접 대비 | 시스템 설계, 자료구조, 실무 기반 디버깅 정리
 
 ---
 
-## 📈 GitHub Stats
+## 📦 주요 레포지토리
+
+| 레포지토리 | 설명 |
+|------------|------|
+| [`Server-Job-Prep`](https://github.com/KwakKyungIn/Server-Job-Prep) | 운영체제/네트워크/C++ 이론 정리 + 면접 준비용 마크다운 |
+| [`IOCP-GameServer`](https://github.com/KwakKyungIn/IOCP-GameServer) | IOCP 기반의 경량 MMORPG 게임 서버 구현 프로젝트 |
+| [`CS-Notes`](https://github.com/KwakKyungIn/CS-Notes) | 시스템 프로그래밍 이론 및 서버 구조에 대한 실전 정리
+
+---
+
+## 📈 GitHub 활동 통계
 
 ![KwakKyungIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwakKyungIn&show_icons=true&theme=default&hide_title=false&hide_rank=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakKyungIn&layout=compact&theme=default)
 
+---
 
-## 🧭 Developer's Compass
+## 🧭 개발 철학
 
-> This GitHub is a record of steady learning and improvement.
-> I'm focused on understanding systems deeply — not just writing code,
-> but building things that actually work and scale.
+> 이 GitHub는 단순한 코드 저장소가 아닙니다.  
+> 한 명의 개발자가 어떻게 기초를 다지고,  
+> 운영체제와 네트워크를 정복해가며  
+> 직접 동작하는 서버를 구현해나가는지를 담고 있습니다.
 
-> Each commit here is a step toward becoming a better system engineer.
-> I’m learning to think in terms of architecture, performance, and reliability.
+> 하나하나의 커밋은  
+> 코딩을 넘어서 설계하고, 디버깅하고, 최적화하고,  
+> **실제로 돌아가는 시스템을 만드는 과정**입니다.
 
 ---
 
-## 📫 Reach Me
+## 📫 Contact
 
-- 📧 rhkrruddls19999@gmail.com  
-- 📝 [Velog](https://velog.io/@b_mule/posts)  
-- 📷 [Instagram](https://www.instagram.com/raeb_kkk)
-
+- 📧 이메일: rhkrruddls19999@gmail.com  
+- 📝 블로그: [Velog 바로가기](https://velog.io/@b_mule/posts)  
+- 📷 인스타그램: [@raeb_kkk](https://www.instagram.com/raeb_kkk)
