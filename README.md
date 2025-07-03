@@ -45,9 +45,8 @@
 
 | Repository | Description |
 |------------|-------------|
-| [`Server-Job-Prep`](https://github.com/yourname/Server-Job-Prep) | OS & Networking markdown notes, C++ interview prep |
-| [`IOCP-GameServer`](https://github.com/yourname/IOCP-GameServer) | Lightweight MMO-style server prototype with IOCP |
-| [`CS-Notes`](https://github.com/yourname/CS-Notes) | C++ + OS + Network in one place |
+| [`Server-Job-Prep`](https://github.com/KwakKyungIn/Server-Job-Prep) | OS & Networking markdown notes, C++ interview prep |
+
 
 ---
 
