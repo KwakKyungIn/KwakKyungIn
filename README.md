@@ -55,12 +55,12 @@ Studying system-level programming from the ground up — one thread, one packet,
 
 ## 🧭 Developer's Compass
 
-> Real-time, high-stress, multi-threaded —  
-> That’s the kind of environment I’m training for.  
->  
-> Every commit in this GitHub reflects one truth:  
-> I'm not just learning to code.  
-> I'm learning to architect, to debug, to optimize, and to deliver.
+> This GitHub is a record of steady learning and improvement.
+> I'm focused on understanding systems deeply — not just writing code,
+> but building things that actually work and scale.
+
+> Each commit here is a step toward becoming a better system engineer.
+> I’m learning to think in terms of architecture, performance, and reliability.
 
 ---
 
