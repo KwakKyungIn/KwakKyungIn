@@ -23,7 +23,7 @@ MMORPG와 같은 대규모 온라인 게임의 백엔드를 직접 구현하고�
 
 ## ⚒️ 기술 스택
 
-- **사용 언어**: C++, C, Python  
+- **사용 언어**: C++, C
 - **개발 도구**: Visual Studio, VSCode, Git, GitHub  
 - **게임 엔진**: Unreal Engine, Unity  
 - **주요 기술**: TCP/IP, IOCP, MultiThreading, WebSocket
@@ -46,8 +46,7 @@ MMORPG와 같은 대규모 온라인 게임의 백엔드를 직접 구현하고�
 | 레포지토리 | 설명 |
 |------------|------|
 | [`Server-Job-Prep`](https://github.com/KwakKyungIn/Server-Job-Prep) | 운영체제/네트워크/C++ 이론 정리 + 면접 준비용 마크다운 |
-| [`IOCP-GameServer`](https://github.com/KwakKyungIn/IOCP-GameServer) | IOCP 기반의 경량 MMORPG 게임 서버 구현 프로젝트 |
-| [`CS-Notes`](https://github.com/KwakKyungIn/CS-Notes) | 시스템 프로그래밍 이론 및 서버 구조에 대한 실전 정리
+| [`Portfolio`]([https://github.com/KwakKyungIn/IOCP-GameServer](https://github.com/KwakKyungIn/portfolio-kwak)) | 프로젝트 및 경력 포트폴리오 |
 
 ---
 
