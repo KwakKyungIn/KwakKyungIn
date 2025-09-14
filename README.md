@@ -46,7 +46,7 @@ MMORPG와 같은 대규모 온라인 게임의 백엔드를 직접 구현하고�
 | 레포지토리 | 설명 |
 |------------|------|
 | [`Server-Job-Prep`](https://github.com/KwakKyungIn/Server-Job-Prep) | 운영체제/네트워크/C++ 이론 정리 + 면접 준비용 마크다운 |
-| [`Portfolio`]([https://github.com/KwakKyungIn/IOCP-GameServer](https://github.com/KwakKyungIn/portfolio-kwak)) | 프로젝트 및 경력 포트폴리오 |
+| [`Portfolio`](https://github.com/KwakKyungIn/portfolio-kwak) | 프로젝트 및 경력 포트폴리오 |
 
 ---
 
